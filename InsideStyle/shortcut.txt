@@ -1,0 +1,30 @@
+shift+1 for auto launch
+  <!-- CSS Link Script-->
+    <link rel="stylesheet" href="stylesheet.css" />
+    <!-- JS Link Script-->
+    <script src="script.js"></script>
+    <title>Inside Style</title>
+<!---header#header>.container>.header__wrapper>.header__end--end+.heade__logo --->
+input.name = <input type="text" class="name">
+label#name <label for="" id="name"></label> 
+
+  <!---nav.ul.header__nav>li*5>a creates 5 of these copies-->
+        <nav class="ul header__nav">
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </nav>
+
+header.header>.header__wrapper
+ <header class="header">
+        <div class="header__wrapper"></div>
+    </header>
+
+header.header>.container>.header__wrapper>img+nav>ul.header__nav>li*5>a
+section.top>.container>.top__wrapper>span+h4
+
+section.banner>.container>.banner__wrapper>.banner__left+.banner.right
+
+section.about>.conntainer>.about__title+.about__wrapper>.about__left+.about__right
